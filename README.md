@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!  I am David Todorovski 👋<br><br>🎓 Bachelor’s degree in Software Engineering<br>💻 Focused on Web Development | Always learning<br><br>I’m passionate about learning coding and building real projects to sharpen my skills.<br>I enjoy improving step by step and writing clean, understandable code.
+Hey!  I am David Todorovski 👋<br><br>🎓 BSc in Software Engineering and Information Systems<br>💻 Focused on Web Development | Always learning<br><br>I’m passionate about learning coding and building real projects to sharpen my skills.<br>I enjoy improving step by step and writing clean, understandable code.
 
 
 ## 🌐 Socials:
